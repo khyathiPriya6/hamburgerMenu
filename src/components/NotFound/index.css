@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-img {
+  width: 50%;
+  height: auto;
+}
